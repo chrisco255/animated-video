@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\Desktop\projects\AnimatedVideo\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\classes_b053b94f44c3bfe150c1f841cdbd4abda424feb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_b88412f344efe8191215502010f6adec4fde9119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_39beb2fbb08a67340d125e8169ff95b8bb0e700e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_00b34426ccb8c56362918b79926a587ed0e0294b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.android\build-cache\1afc543028efbaab7676a27a3c7070074cb9b4b9\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_a6d7f7a6a823d86031f693000f3dc0c964c5a63b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_c9e10fe5cc69f1ba10e420d3fcf6cdf75b5ec61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_b2b83a38c23491f3a12257e61b46069fa4fc6abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_b88412f344efe8191215502010f6adec4fde9119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_a3ffdcb7dfaed3725f7a0f79e8f9728a147b7245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.android\build-cache\0294ddca1fdcfbba6f517b43ea4de1b8643dace7\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_5b6c5c9e74e71861d96f201d107eebae9babc309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_39beb2fbb08a67340d125e8169ff95b8bb0e700e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.android\build-cache\1afc543028efbaab7676a27a3c7070074cb9b4b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\classes_036f6f50f6731360e9dab5a24c2da1eace6d2ba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_00b34426ccb8c56362918b79926a587ed0e0294b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_ec311f8a1e00bf43dcf63fef67d01f2e95d5a1e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.android\build-cache\0294ddca1fdcfbba6f517b43ea4de1b8643dace7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\classes_81eb87b1b9bf4ec98863c865ea494c998b37433d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\Desktop\projects\AnimatedVideo\node_modules\react-native-video\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33b9ae6aa89cca3401f4947d2b87f5bf9f3c465c">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\classes_dd73d94b8b5d51ba28f4b6245c20edebcfeac822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_c9e10fe5cc69f1ba10e420d3fcf6cdf75b5ec61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ufcor\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\ufcor\Desktop\projects\AnimatedVideo\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_5f8b8f7707f57f6f7caf5f4929389d3913a9efcf.jar" />
+    </item>
+
+</items>
